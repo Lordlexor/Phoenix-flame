@@ -1,0 +1,217 @@
+[
+  {
+    
+    "weapon": {
+      "id": 901,
+      "name": "The Phoenix Blade",
+      "type": "Fused Blade (Fire & Light)",
+      "damage": 115,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20alas.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 902,
+      "name": "Blazing Crescent",
+      "type": "Flame Saber",
+      "damage": 92,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/firelands/refs/heads/main/weapons/blazingcrescent.webp"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 903,
+      "name": "Spear of the steed",
+      "type": "spear",
+      "damage": 89,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20helion.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 904,
+      "name": "Crimson Silence",
+      "type": "Dual Daggers",
+      "damage": 84,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20volko.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 905,
+      "name": "Skyfang Axe",
+      "type": "Dragonaxe",
+      "damage": 102,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20varrock.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1001,
+      "name": "Tidepiercer",
+      "type": "Water Blade",
+      "damage": 94,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20elara.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1002,
+      "name": "Ocean’s Edge",
+      "type": "Flowblade",
+      "damage": 99,
+      "isLegendary": true,
+      "imageUrl": "hhttps://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20eovran.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1003,
+      "name": "Blessed Torrent",
+      "type": "Divine Staff",
+      "damage": 87,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20elathra.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1004,
+      "name": "Tidal maul",
+      "type": "Tower maul",
+      "damage": 75,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20bastion.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1005,
+      "name": "Wavepiercer Pike",
+      "type": "Polearm",
+      "damage": 78,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20soldier%20water.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1101,
+      "name": "maxe of Night’s Silence",
+      "type": "Dark mace",
+      "damage": 0,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20king%20of%20darknes.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1102,
+      "name": "Abyssal Grimoire",
+      "type": "Tome",
+      "damage": 105,
+      "isLegendary": true,
+      "imageUrl": "https://github.com/Lordlexor/Phoenix-flame/blob/main/weapons/weapon%20prince%20of%20darkness.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1103,
+      "name": "Whisperfang",
+      "type": "dual short sword",
+      "damage": 82,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20noble%20darklands.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1104,
+      "name": "Blackened Greatsword",
+      "type": "Greatsword",
+      "damage": 88,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20dark%20greatsword%20knight.png"
+    }
+  },
+  {
+    
+    "weapon": {
+      "id": 1105,
+      "name": "Dark claws",
+      "type": "Bioweapon",
+      "damage": 104,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20claws.png"
+    }
+  },
+  {
+      "weapon": {
+      "id": 1201,
+      "name": "Blade of Illumination",
+      "type": "Longsword",
+      "damage": 100,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20aurelion.png"
+    }
+  },
+  {
+      "weapon": {
+      "id": 1202,
+      "name": "Blessed Lance",
+      "type": "Polearm",
+      "damage": 85,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20polearm%20light.png"
+    }
+  },
+  {
+      "weapon": {
+      "id": 1203,
+      "name": "Heavenhammer",
+      "type": "Stone Mace",
+      "damage": 95,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20holy.png"
+    }
+  },
+  {
+      "weapon": {
+      "id": 1204,
+      "name": "weapon of Purging",
+      "type": "Flaming weapon",
+      "damage": 78,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20zealot.png"
+    }
+  },
+  {
+        "weapon": {
+      "id": 1205,
+      "name": "Scripture of Flame",
+      "type": "Holy Tome",
+      "damage": 70,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20high%20priest.png"
+    }
+  }
+]
