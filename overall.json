@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "name": "Alasthra Phoenixtra",
+    "category": "Fire",
+    "description": "The rightful heir of the Firelands, a warrior-mage burdened with sorrow, fire, and the fate of a nation.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "603-03-21",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Alasthra.png",
+    "rank": "General of Phoenix City",
+    "hobbies": ["Reading history", "Sword training", "Walking through ruins"],
+    "weapon": {
+      "id": 901,
+      "name": "The Phoenix Blade",
+      "type": "Fused Blade (Fire & Light)",
+      "damage": 115,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20alas.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kiara Flamesoul",
+    "category": "Fire",
+    "description": "A fiercely loyal warrior who once served as a sergeant, now dangerously devoted to Alasthra.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "598-06-07",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20shield%20kiara.png",
+    "rank": "Phoenix Guard",
+    "hobbies": ["Watching Alasthra train", "Polishing her sword", "Dueling"],
+    "weapon": {
+      "id": 902,
+      "name": "Blazing Crescent",
+      "type": "Flame Saber",
+      "damage": 92,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/firelands/refs/heads/main/weapons/blazingcrescent.webp"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Helion Kuda",
+    "category": "Fire",
+    "description": "Noble-born cavalry commander, rides into battle with his armored Fire Tigers and leads from the front.",
+    "age": 40,
+    "isActive": true,
+    "birthDate": "590-01-28",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Helion.png",
+    "rank": "Lord-Captain",
+    "hobbies": ["Beast training", "Command drills", "Writing poetry"],
+    "weapon": {
+      "id": 903,
+      "name": "Spear of the steed",
+      "type": "spear",
+      "damage": 89,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20helion.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Volko Redshade",
+    "category": "Fire",
+    "description": "A cunning spy and master of disguise, known for his calm demeanor and deadly efficiency.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "587-08-11",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/volko.png",
+    "rank": "Shadow Agent",
+    "hobbies": ["Gathering intel", "Sharpening daggers", "Mocking enemies"],
+    "weapon": {
+      "id": 904,
+      "name": "Crimson Silence",
+      "type": "Dual Daggers",
+      "damage": 84,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20volko.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Varrock Haran",
+    "category": "Fire",
+    "description": "A former dragon hunter turned loyal Dragon Lord of Alasthra, bonded with the five-headed dragon Veilaria.",
+    "age": 45,
+    "isActive": true,
+    "birthDate": "580-12-03",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/varrock.png",
+    "rank": "Dragon Lord",
+    "hobbies": ["Dragon training", "Flying patrols", "Drinking with soldiers"],
+    "weapon": {
+      "id": 905,
+      "name": "Skyfang Axe",
+      "type": "Dragonaxe",
+      "damage": 102,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20varrock.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Elara Pholoncia",
+    "category": "Water",
+    "description": "Crown Princess of the Waterlands, a fierce commander trained in both diplomacy and divine magic.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "596-02-15",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Elara.png",
+    "rank": "Crown Princess",
+    "hobbies": ["Strategy games", "Meditation", "Sword dance"],
+    "weapon": {
+      "id": 1001,
+      "name": "Tidepiercer",
+      "type": "Water Blade",
+      "damage": 94,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20elara.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Eovran of the Flow",
+    "category": "Water",
+    "description": "Late King of the Waterlands, known for his tragic fall and unmatched mastery over water dueling.",
+    "age": 62,
+    "isActive": false,
+    "birthDate": "567-09-09",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/eovran.png",
+    "rank": "King",
+    "hobbies": ["Water sculpting", "Duels of Drovar", "Singing old hymns"],
+    "weapon": {
+      "id": 1002,
+      "name": "Ocean’s Edge",
+      "type": "Flowblade",
+      "damage": 99,
+      "isLegendary": true,
+      "imageUrl": "hhttps://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20eovran.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Queen Elathra",
+    "category": "Water",
+    "description": "Queen of the Waterlands, divine and unwavering in her leadership, channeler of sacred waters.",
+    "age": 61,
+    "isActive": false,
+    "birthDate": "568-06-18",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Elathra.png",
+    "rank": "Queen",
+    "hobbies": ["Divine rites", "Public oration", "Ritual bathing"],
+    "weapon": {
+      "id": 1003,
+      "name": "Blessed Torrent",
+      "type": "Divine Staff",
+      "damage": 87,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20elathra.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Normas Bastion",
+    "category": "Water",
+    "description": "A towering figure of defense and duty, commander of the fortress city, capable of divine transformation.",
+    "age": 55,
+    "isActive": false,
+    "birthDate": "574-10-04",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/normas.png",
+    "rank": "Guardian General",
+    "hobbies": ["Drilling troops", "Wall carving", "Contemplating fate"],
+    "weapon": {
+      "id": 1004,
+      "name": "Tidal maul",
+      "type": "Tower maul",
+      "damage": 75,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20bastion.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Waterlands Soldier",
+    "category": "Water",
+    "description": "A disciplined warrior trained in the art of aquatic combat and loyal to the royal family.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "601-04-20",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/waterlands%20soldier.png",
+    "rank": "Water Guard",
+    "hobbies": ["Sparring", "Keeping armor clean", "Marching"],
+    "weapon": {
+      "id": 1005,
+      "name": "Wavepiercer Pike",
+      "type": "Polearm",
+      "damage": 78,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20soldier%20water.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Noctyros Zhilix",
+    "category": "Darkness",
+    "description": "The ancient and enigmatic King of Darkness, a figure lost in shadow and prophecy.",
+    "age": 1300,
+    "isActive": false,
+    "birthDate": "325-12-12",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Noctyros%20Zhilix.png",
+    "rank": "King of Darkness",
+    "hobbies": ["Whispering through shadows", "Dreamwalking", "Binding souls"],
+    "weapon": {
+      "id": 1101,
+      "name": "maxe of Night’s Silence",
+      "type": "Dark mace",
+      "damage": 0,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20king%20of%20darknes.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Noctovar Zhilix",
+    "category": "Darkness",
+    "description": "The new King of Darkness, an immortal sorcerer who commands death and seeks to break the curse of endless night.",
+    "age": 120,
+    "isActive": true,
+    "birthDate": "604-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Noctovar%20Zhilix.png",
+    "rank": "Dark King Ascendant",
+    "hobbies": ["Raising undead", "Dark ritual theory", "Starless meditations"],
+    "weapon": {
+      "id": 1102,
+      "name": "Abyssal Grimoire",
+      "type": "Tome",
+      "damage": 105,
+      "isLegendary": true,
+      "imageUrl": "https://github.com/Lordlexor/Phoenix-flame/blob/main/weapons/weapon%20prince%20of%20darkness.png"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lord Varek Nihil",
+    "category": "Darkness",
+    "description": "A noble of the old bloodlines, eternally preserved by shadow. Cold, refined, and merciless.",
+    "age": 390,
+    "isActive": true,
+    "birthDate": "215-10-30",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/noble%20darklands.png",
+    "rank": "Dark Noble",
+    "hobbies": ["Court duels", "Poisoning rivals", "Writing philosophy"],
+    "weapon": {
+      "id": 1103,
+      "name": "Whisperfang",
+      "type": "dual short sword",
+      "damage": 82,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20noble%20darklands.png"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Knight of the Endless Veil",
+    "category": "Darkness",
+    "description": "A faceless soldier in blackened plate, trained from youth to defend the realm of darkness with disciplined precision.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "592-07-19",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/dark%20soldier.png",
+    "rank": "Dark Knight",
+    "hobbies": ["Training drills", "Silent watch duty", "Shield formations"],
+    "weapon": {
+      "id": 1104,
+      "name": "Blackened Greatsword",
+      "type": "Greatsword",
+      "damage": 88,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20dark%20greatsword%20knight.png"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Darkspawn Abomination",
+    "category": "Darkness",
+    "description": "A writhing monstrosity of corrupted flesh, fused with black matter and born from the void’s womb.",
+    "age": "Unknown",
+    "isActive": true,
+    "birthDate": "???",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/dark%20spawn.png",
+    "rank": "Abomination",
+    "hobbies": ["Hissing", "Absorbing biomass", "Night crawling"],
+    "weapon": {
+      "id": 1105,
+      "name": "Dark claws",
+      "type": "Bioweapon",
+      "damage": 104,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20claws.png"
+    }
+  },
+  {
+    "id": 16,
+    "name": "King Aurelion Phoelix",
+    "category": "Light",
+    "description": "Ruler of the Lightlands, adored by his people and feared by outsiders. Believes deeply in order, hierarchy, and divine will.",
+    "age": 58,
+    "isActive": true,
+    "birthDate": "567-05-01",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/King%20Aurelion%20Phoelix.png",
+    "rank": "King of Light",
+    "hobbies": [
+      "Delivering decrees",
+      "Walking palace gardens",
+      "Condemning heresy"
+    ],
+    "weapon": {
+      "id": 1201,
+      "name": "Blade of Illumination",
+      "type": "Longsword",
+      "damage": 100,
+      "isLegendary": true,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20aurelion.png"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Angelic Soldier",
+    "category": "Light",
+    "description": "A devoted footman clad in shining armor, trained to strike with holy precision and die in service of the Light.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "591-08-02",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/angelic%20soldier.png",
+    "rank": "Holy Vanguard",
+    "hobbies": ["Drilling formations", "Polishing armor", "Chanting oaths"],
+    "weapon": {
+      "id": 1202,
+      "name": "Blessed Lance",
+      "type": "Polearm",
+      "damage": 85,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20polearm%20light.png"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Statue of Vigilance",
+    "category": "Light",
+    "description": "A stone guardian carved in the image of a celestial being, brought to life through divine magic.",
+    "age": 300,
+    "isActive": true,
+    "birthDate": "305-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/stone%20light.png",
+    "rank": "Eternal Sentinel",
+    "hobbies": ["Standing still", "Glowing ominously", "Crushing invaders"],
+    "weapon": {
+      "id": 1203,
+      "name": "Heavenhammer",
+      "type": "Stone Mace",
+      "damage": 95,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20holy.png"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Zealot Fanatic",
+    "category": "Light",
+    "description": "A fervent believer who has abandoned all reason for divine purpose. Shouts sermons while fighting.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "582-11-27",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/zalous%20fanatic.png",
+    "rank": "Divine Crusader",
+    "hobbies": ["Yelling", "Burning books", "Casting judgment"],
+    "weapon": {
+      "id": 1204,
+      "name": "weapon of Purging",
+      "type": "Flaming weapon",
+      "damage": 78,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20zealot.png"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Zealot Priest",
+    "category": "Light",
+    "description": "A high-ranking priest with blood-stained robes and a voice that commands armies. Believes suffering is the path to glory.",
+    "age": 63,
+    "isActive": true,
+    "birthDate": "560-03-18",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/high%20priest.png",
+    "rank": "High Inquisitor",
+    "hobbies": ["Sacrificial rites", "Interrogation", "Blessing weapons"],
+    "weapon": {
+      "id": 1205,
+      "name": "Scripture of Flame",
+      "type": "Holy Tome",
+      "damage": 70,
+      "isLegendary": false,
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20high%20priest.png"
+    }
+  }
+]
