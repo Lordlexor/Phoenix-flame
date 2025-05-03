@@ -27,7 +27,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "598-06-07",
-    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20shield%20kiara.png",
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/kiara.png",
     "rank": "Phoenix Guard",
     "hobbies": ["Watching Alasthra train", "Polishing her sword", "Dueling"],
     "weapon": {
@@ -36,7 +36,7 @@
       "type": "Flame Saber",
       "damage": 92,
       "isLegendary": false,
-      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/firelands/refs/heads/main/weapons/blazingcrescent.webp"
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20shield%20kiara.png"
     }
   },
   {
