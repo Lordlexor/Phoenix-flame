@@ -213,5 +213,32 @@
       "isLegendary": false,
       "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20high%20priest.png"
     }
+  },
+  {"weapon": {
+    "id": 903,
+    "name": "Blade of Order",
+    "type": "Greatsword",
+    "damage": 95,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/two%20handed%20sword%20kranor.png"
   }
+},
+  {"weapon": {
+    "id": 904,
+    "name": "Ironlash",
+    "type": "Twin Axes",
+    "damage": 75,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20brokor.png"
+  }
+},
+  {"weapon": {
+    "id": 902,
+    "name": "Crownslayer's blade",
+    "type": "Dark flame sword",
+    "damage": 80,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20dark%20greatsword%20kront.png"
+  }
+}
 ]
