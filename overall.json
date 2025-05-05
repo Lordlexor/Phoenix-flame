@@ -95,7 +95,7 @@
       "name": "Skyfang Axe",
       "type": "Dragonaxe",
       "damage": 102,
-      "isLegendary": true,
+      "isLegendary": false,
       "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20varrock.png"
     }
   },
@@ -228,7 +228,7 @@
     "isActive": true,
     "birthDate": "604-01-01",
     "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Noctovar%20Zhilix.png",
-    "rank": "Dark King Ascendant",
+    "rank": "Dark prince",
     "hobbies": ["Raising undead", "Dark ritual theory", "Starless meditations"],
     "weapon": {
       "id": 1102,
@@ -402,5 +402,67 @@
       "isLegendary": false,
       "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20maul%20high%20priest.png"
     }
+  },
+  {
+  "id": 21,
+  "name": "Kront",
+  "category": "Fire",
+  "description": "The tyrant king of the Firelands, a cunning manipulator who stole the crown and sparked a false war.",
+  "age": 182,
+  "isActive": false,
+  "birthDate": "448-11-05",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Kront.png",
+  "rank": "King of the Firelands (Deceased)",
+  "hobbies": ["Political scheming", "Collecting relics", "Controlling narratives"],
+  "weapon": {
+    "id": 902,
+    "name": "Crownslayer's blade",
+    "type": "Dark flame sword",
+    "damage": 80,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20dark%20greatsword%20kront.png"
   }
+},
+{
+  "id": 22,
+  "name": "Kranor",
+  "category": "Fire",
+  "description": "High General of the Firelands, a disciplined war veteran and secret protector of Alasthra’s true heritage.",
+  "age": 213,
+  "isActive": true,
+  "birthDate": "391-08-13",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Kranor.png",
+  "rank": "High General of the Firelands",
+  "hobbies": ["Training recruits", "Meditation", "Writing war journals"],
+  "weapon": {
+    "id": 903,
+    "name": "Blade of Order",
+    "type": "Greatsword",
+    "damage": 95,
+    "isLegendary": true,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/two%20handed%20sword%20kranor.png"
+  }
+},
+  {
+  "id": 23,
+  "name": "Brokor",
+  "category": "Fire",
+  "description": "A once-mocking lieutenant who grew into a loyal and fierce mentor to Alasthra during his early training.",
+  "age": 142,
+  "isActive": true,
+  "birthDate": "483-02-09",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Brokor.png",
+  "rank": "Lieutenant of the Blessed Blade",
+  "hobbies": ["Sparring", "Drinking firebrew", "Telling war stories"],
+  "weapon": {
+    "id": 904,
+    "name": "Ironlash",
+    "type": "Twin Axes",
+    "damage": 75,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20brokor.png"
+  }
+}
+
+
 ]
