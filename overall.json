@@ -412,7 +412,7 @@
   "isActive": false,
   "birthDate": "448-11-05",
   "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Kront.png",
-  "rank": "King of the Firelands (Deceased)",
+  "rank": "King of the Firelands",
   "hobbies": ["Political scheming", "Collecting relics", "Controlling narratives"],
   "weapon": {
     "id": 902,
