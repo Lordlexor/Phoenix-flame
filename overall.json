@@ -405,7 +405,7 @@
   },
   {
   "id": 21,
-  "name": "Kront",
+  "name": "Kront Eaglow",
   "category": "Fire",
   "description": "The tyrant king of the Firelands, a cunning manipulator who stole the crown and sparked a false war.",
   "age": 182,
@@ -425,7 +425,7 @@
 },
 {
   "id": 22,
-  "name": "Kranor",
+  "name": "Kranor Signalf",
   "category": "Fire",
   "description": "High General of the Firelands, a disciplined war veteran and secret protector of Alasthra’s true heritage.",
   "age": 213,
@@ -445,7 +445,7 @@
 },
   {
   "id": 23,
-  "name": "Brokor",
+  "name": "Brokor Drenmar ",
   "category": "Fire",
   "description": "A once-mocking lieutenant who grew into a loyal and fierce mentor to Alasthra during his early training.",
   "age": 142,
