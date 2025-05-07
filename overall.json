@@ -136,7 +136,7 @@
       "type": "Flowblade",
       "damage": 99,
       "isLegendary": true,
-      "imageUrl": "hhttps://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20eovran.png"
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20eovran.png"
     }
   },
   {
@@ -232,11 +232,11 @@
     "hobbies": ["Raising undead", "Dark ritual theory", "Starless meditations"],
     "weapon": {
       "id": 1102,
-      "name": "Abyssal Grimoire",
-      "type": "Tome",
+      "name": "Sword of dark wings",
+      "type": "Sword",
       "damage": 105,
       "isLegendary": true,
-      "imageUrl": "https://github.com/Lordlexor/Phoenix-flame/blob/main/weapons/weapon%20prince%20of%20darkness.png"
+      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20prince%20of%20darkness.png"
     }
   },
   {
