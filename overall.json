@@ -405,9 +405,9 @@
   },
   {
   "id": 21,
-  "name": "Kront Eaglow",
+  "name": "King Kront",
   "category": "Fire",
-  "description": "The tyrant king of the Firelands, a cunning manipulator who stole the crown and sparked a false war.",
+  "description": "The tyrant king Kront Eaglow of the Firelands, a cunning manipulator who stole the crown and sparked a false war.",
   "age": 182,
   "isActive": false,
   "birthDate": "448-11-05",
@@ -465,9 +465,9 @@
 },
   {
   "id": 24,
-  "name": "Frenyara Eaglow",
+  "name": "Princess Frenyara",
   "category": "Fire",
-  "description": "Daughter of King Kront and princess of the Firelands, Frenyara was once kept hidden from the world. Fiercely intelligent and compassionate, she later defied her father's will and stood beside Alasthra as both healer and queen in spirit. Her quiet strength reshaped the future of the realm.",
+  "description": "Daughter of King Kront Eaglow and princess of the Firelands, Frenyara was once kept hidden from the world. Fiercely intelligent and compassionate, she later defied her father's will and stood beside Alasthra as both healer and queen in spirit. Her quiet strength reshaped the future of the realm.",
   "age": 124,
   "isActive": true,
   "birthDate": "501-04-12",
