@@ -462,6 +462,26 @@
     "isLegendary": false,
     "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20brokor.png"
   }
+},
+  {
+  "id": 24,
+  "name": "Frenyara Phoenixtra",
+  "category": "Fire",
+  "description": "Daughter of King Kront and princess of the Firelands, Frenyara was once kept hidden from the world. Fiercely intelligent and compassionate, she later defied her father's will and stood beside Alasthra as both healer and queen in spirit. Her quiet strength reshaped the future of the realm.",
+  "age": 124,
+  "isActive": true,
+  "birthDate": "501-04-12",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Frenyara.png",
+  "rank": "Princess of the Firelands",
+  "hobbies": ["Healing", "Studying ancient texts", "Listening to music", "Walking through Phoenix City"],
+  "weapon": {
+    "id": 905,
+    "name": "Silver flame",
+    "type": "Silver flame sword",
+    "damage": 50,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapons%20frenara.png"
+  }
 }
 
 
