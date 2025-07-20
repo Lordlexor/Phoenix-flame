@@ -19,45 +19,68 @@
       "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20alas.png"
     }
   },
-  {
-    "id": 2,
-    "name": "Kiara Flamesoul",
-    "category": "Fire",
-    "description": "A fiercely loyal warrior who once served as a sergeant, now dangerously devoted to Alasthra.",
-    "age": 32,
-    "isActive": true,
-    "birthDate": "598-06-07",
-    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/kiara.png",
-    "rank": "Phoenix Guard",
-    "hobbies": ["Watching Alasthra train", "Polishing her sword", "Dueling"],
-    "weapon": {
-      "id": 902,
-      "name": "Blazing Crescent",
-      "type": "Flame Saber",
-      "damage": 92,
-      "isLegendary": false,
-      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20shield%20kiara.png"
-    }
+ {
+  "id": 2,
+  "name": "Kiara Flamesoul",
+  "category": "Fire",
+  "description": "A fiercely loyal warrior who once served as a sergeant, now dangerously devoted to Alasthra.",
+  "age": 32,
+  "isActive": true,
+  "birthDate": "598-06-07",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/kiara.png",
+  "rank": "Phoenix Guard",
+  "hobbies": ["Watching Alasthra train", "Polishing her sword", "Dueling"],
+  "weapon": {
+    "id": 902,
+    "name": "Blazing Crescent",
+    "type": "Flame Saber",
+    "damage": 92,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20shield%20kiara.png"
   },
-  {
-    "id": 3,
-    "name": "Helion Kuda",
-    "category": "Fire",
-    "description": "Noble-born cavalry commander, rides into battle with his armored Fire Tigers and leads from the front.",
-    "age": 33,
-    "isActive": true,
-    "birthDate": "590-01-28",
-    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Helion.png",
-    "rank": "Lord-Captain",
-    "hobbies": ["Beast training", "Command drills", "Writing poetry"],
-    "weapon": {
-      "id": 903,
-      "name": "Spear of the steed",
-      "type": "spear",
-      "damage": 89,
-      "isLegendary": false,
-      "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20helion.png"
-    }
+  "blessings": [
+    "Moderate self-healing",
+    "Passive leech enhancement",
+    "Flame cloak",
+    "Flame shield",
+    "Berserk",
+    "Flame enchant",
+    "Greater strength",
+    "Light’s flame",
+    "Cannot die in battle as long as people around are wounded"
+  ]
+},
+{
+  "id": 3,
+  "name": "Helion Kuda",
+  "category": "Fire",
+  "description": "Noble-born cavalry commander, rides into battle with his armored Fire Tigers and leads from the front.",
+  "age": 33,
+  "isActive": true,
+  "birthDate": "590-01-28",
+  "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/char/Helion.png",
+  "rank": "Lord-Captain",
+  "hobbies": ["Beast training", "Command drills", "Writing poetry"],
+  "weapon": {
+    "id": 903,
+    "name": "Spear of the steed",
+    "type": "Spear",
+    "damage": 89,
+    "isLegendary": false,
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/Phoenix-flame/refs/heads/main/weapons/weapon%20helion.png"
+  },
+  "blessings": [
+    "Self-enhance strength",
+    "Self-enhance weapon",
+    "Enhance speed — beast",
+    "Enhance strength — beast",
+    "Greater strength",
+    "Courage — all riders",
+    "Minor regeneration",
+    "Light heal",
+    "Can ride any beast"
+  ]
+}
   },
   {
     "id": 4,
